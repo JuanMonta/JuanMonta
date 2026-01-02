@@ -1,4 +1,5 @@
-### Hola, soy un Desarrollador Java 🇪🇨
+<h1 align="center">👋 Hola, soy Juan</h1>
+<h3 align="center">Java Developer 🚀 y un Hardware Otaku (≧ヮ≦) 💕 🇪🇨</h3>
 
 Soy un programador apasionado por el ecosistema **Java** y el hardware de PC. Me gusta entender cómo funcionan las cosas desde el cableado hasta el código.
 
@@ -24,5 +25,5 @@ Estoy desarrollando una solución de escritorio completa para administrar el flu
 
 ### 🛠️ Lenguajes y Herramientas
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Tailscale](https://img.shields.io/badge/Tailscale-18181B?style=for-the-badge&logo=tailscale&logoColor=white)
