@@ -21,7 +21,7 @@ Estoy desarrollando una solución de escritorio completa para administrar el flu
 - 🤖 **AI Workflows:** Explorando la automatización de tareas y creación de flujos de trabajo inteligentes.
 - 🎨 **Generación Local:** Experimentando con modelos locales y hardware (GPU) para entender las capacidades de la IA fuera de la nube.
 
--⚡ Dato curioso: Me encantan los teclados mecánicos con switches azules (clicky); mis vecinos probablemente saben cuándo estoy programando. Sino estoy compilando, mi PC probablemente esté ejecutándo máquinas virtuales o sirviendo contenido multimedia vía CasaOS.
+-⚡ **Dato curioso:** Me encantan los teclados mecánicos con switches azules (clicky); mis vecinos probablemente saben cuándo estoy programando. Sino estoy compilando, mi PC probablemente esté ejecutándo máquinas virtuales o sirviendo contenido multimedia vía CasaOS.
 
 ### 🛠️ Lenguajes y Herramientas
 
